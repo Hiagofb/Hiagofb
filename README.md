@@ -1,8 +1,9 @@
-## 👋 Olá, eu sou Hiago Fernandes!
+## 👋 Olá, eu sou Hiago Fernandes
 
-📊 **Engenheiro de Produção migrando para Analista de Dados**
+📊 Analista de Dados com formação em Engenharia de Produção
 
-Apaixonado por transformar dados em insights valiosos, utilizando **Python, SQL e Power BI** para otimização e tomada de decisões estratégicas.
+Sou apaixonado por transformar dados em decisões inteligentes. Com base na minha experiência em Engenharia de Produção, desenvolvo análises que unem visão estratégica, otimização de processos e foco em resultados.
+Tenho domínio em Python, SQL, Power BI e metodologias ágeis, e estou sempre em busca de novos desafios para gerar valor por meio dos dados.
 
 ---
 
