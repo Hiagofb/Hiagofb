@@ -28,10 +28,9 @@ Apaixonado por transformar dados em insights valiosos, utilizando **Python, SQL 
 
  - 📊 Análise Descritiva de E-commerce
    
-      Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.  
-      Através de visualizações e interpretações de dados, identifiquei padrões que mostram que vender bem nem sempre está associado à satisfação do cliente. O estudo levanta reflexões sobre qualidade percebida,          fidelização e estratégias de melhoria no pós-venda.
+      Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.Através de visualizações e interpretações de dados, identifiquei padrões que mostram que vender bem nem sempre está associado à satisfação do cliente. O estudo levanta reflexões sobre qualidade percebida,fidelização e estratégias de melhoria no pós-venda.
 
-<a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE/blob/main/ANALISE_DESCRITIVA.ipynb" target="_blank" style="
+<a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #28a745;
