@@ -26,21 +26,24 @@ Apaixonado por transformar dados em insights valiosos, utilizando **Python, SQL 
 ---
 ### 📁 Meus Projetos
 
- - 📊 Análise Descritiva de E-commerce
-   
-      Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.Através de visualizações e interpretações de dados, identifiquei padrões que mostram que vender bem nem sempre está associado à satisfação do cliente. O estudo levanta reflexões sobre qualidade percebida,fidelização e estratégias de melhoria no pós-venda.
-<a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #28a745;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-  font-family: sans-serif;
-">
-📁 Acessar Projeto
-</a>
+- 📊 **Análise Descritiva de E-commerce**  
+  Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.  
+  Através de visualizações e interpretações de dados, identifiquei padrões que mostram que vender bem nem sempre está associado à satisfação do cliente. O estudo levanta reflexões sobre qualidade percebida, fidelização e estratégias de melhoria no pós-venda.
+
+<div style="margin-left: 20px; margin-top: 10px;">
+  <a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-family: sans-serif;
+  ">
+    📁 Acessar Projeto
+  </a>
+</div>
 
 ---
 
