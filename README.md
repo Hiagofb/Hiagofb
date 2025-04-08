@@ -49,6 +49,5 @@ Tenho domínio em Python, SQL, Power BI e metodologias ágeis, e estou sempre em
 ### 📫 Contato
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/hiago-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hiago_fernandes[at]ymail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/YahooMail-purple?style=flat-square&color=%236200D8
-)" target="_blank"></a>  
+  <a href = "mailto:hiago_fernandes[at]ymail.com"><img src="https://img.shields.io/badge/YahooMail-purple?style=flat-square&color=%236200D8" target="_blank"></a>  
 </div>
