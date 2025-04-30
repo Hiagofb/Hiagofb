@@ -29,8 +29,8 @@ A partir disso, comecei a me interessar pela área de dados e iniciei meus estud
 ---
 ### 📁 Meus Projetos
 
-- 📊 **Análise Descritiva de E-commerce**  
-  Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.  
+- 📊 **Análise Descritiva de E-commerce**   
+  Neste projeto, realizo uma análise descritiva detalhada de um conjunto de dados de vendas de e-commerce, relacionando faturamento, quantidade vendida e avaliações dos produtos e categorias.
   Através de visualizações e interpretações de dados, identifiquei padrões que mostram que vender bem nem sempre está associado à satisfação do cliente. O estudo levanta reflexões sobre qualidade percebida, fidelização e estratégias de melhoria no pós-venda.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE" target="_blank" style="
@@ -46,10 +46,8 @@ A partir disso, comecei a me interessar pela área de dados e iniciei meus estud
 📁 Acessar Projeto
 </a>
 
-- 📊 **Monitoramento de Preços de Combustíveis no Brasil**
-
-  Neste projeto, desenvolvi um dashboard interativo no Power BI para acompanhar a evolução dos preços dos combustíveis no Brasil, com base em dados da ANP entre 2004 e 2022. O objetivo é transformar dados públicos em insights visuais acessíveis, que permitem filtrar por estado, bandeira, tipo de combustível e período.
-
+- 📊 **Monitoramento de Preços de Combustíveis no Brasil**   
+  Neste projeto, desenvolvi um dashboard interativo no Power BI para acompanhar a evolução dos preços dos combustíveis no Brasil, com base em dados da ANP entre 2004 e 2022. O objetivo é transformar dados públicos em insights visuais acessíveis, que permitem filtrar por estado, bandeira, tipo de combustível e período.   
   A proposta vai além da visualização: este projeto demonstra minha capacidade de integrar Python e Power BI para automatizar um processo de ETL e análise. É um exemplo prático da minha transição para a área de dados, com foco em soluções escaláveis, automatizadas e aplicáveis ao dia a dia de negócios e tomada de decisão.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL" target="_blank" style="
