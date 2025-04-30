@@ -45,7 +45,8 @@ Tenho domínio em Python, SQL, Power BI e metodologias ágeis, e estou sempre em
 </a>
 
 - 📊 **Monitoramento de Preços de Combustíveis no Brasil**
-  Neste projeto, desenvolvi um dashboard interativo no Power BI para acompanhar a evolução dos preços dos combustíveis no Brasil, com base em dados da ANP entre 2004 e 2022. O objetivo é transformar dados públicos em insights visuais acessíveis, que permitem    filtrar por estado, bandeira, tipo de combustível e período.
+
+  Neste projeto, desenvolvi um dashboard interativo no Power BI para acompanhar a evolução dos preços dos combustíveis no Brasil, com base em dados da ANP entre 2004 e 2022. O objetivo é transformar dados públicos em insights visuais acessíveis, que permitem filtrar por estado, bandeira, tipo de combustível e período.
 
   A proposta vai além da visualização: este projeto demonstra minha capacidade de integrar Python e Power BI para automatizar um processo de ETL e análise. É um exemplo prático da minha transição para a área de dados, com foco em soluções escaláveis, automatizadas e aplicáveis ao dia a dia de negócios e tomada de decisão.
 
