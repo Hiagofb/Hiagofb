@@ -49,7 +49,7 @@ Tenho domínio em Python, SQL, Power BI e metodologias ágeis, e estou sempre em
 
   A proposta vai além da visualização: este projeto demonstra minha capacidade de integrar Python e Power BI para automatizar um processo de ETL e análise. É um exemplo prático da minha transição para a área de dados, com foco em soluções escaláveis, automatizadas e aplicáveis ao dia a dia de negócios e tomada de decisão.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL" target="_blank" style="
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #28a745;
@@ -61,6 +61,7 @@ Tenho domínio em Python, SQL, Power BI e metodologias ágeis, e estou sempre em
 ">
 📁 Acessar Projeto
 </a>
+
 ---
 
 ### 📫 Contato
