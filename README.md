@@ -1,8 +1,11 @@
 ## 👋 Olá, eu sou Hiago Fernandes
-
 📊 Analista de Dados Júnior | Formação em Engenharia de Produção
 
-Sou recém-formado em Engenharia de Produção e estou dando meus primeiros passos na área de dados. Tenho me dedicado ao aprendizado contínuo em Python, SQL, Power BI e metodologias ágeis, buscando sempre aplicar esses conhecimentos na prática. Gosto de entender os problemas, analisar os dados e encontrar maneiras simples de contribuir para melhores decisões. Estou em busca de oportunidades para crescer, aprender com os desafios do dia a dia e fazer a diferença com responsabilidade e vontade de evoluir.
+Nascido em 1996, sou formado em Engenharia de Produção desde 2023. Durante minha experiência profissional, atuei com padronização de processos e melhoria contínua em uma empresa de consultoria de segurança do trabalho. Foi nesse período que percebi como os dados podem fazer diferença na organização do dia a dia e na tomada de decisões.
+
+A partir disso, comecei a me interessar pela área de dados e iniciei meus estudos, explorando ferramentas como Python, SQL e Power BI. Descobri que gosto de analisar, organizar e transformar informações em soluções úteis. Hoje, estou em transição para essa área, buscando crescer profissionalmente como Analista de Dados Júnior e contribuir com dedicação, curiosidade e vontade de aprender sempre.
+
+
 
 ---
 
